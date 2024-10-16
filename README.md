@@ -1,3 +1,12 @@
+Example of Context
+Create Context in App.js and use Context in Comment.js
+Component Hierarchy :
+
+App.js --- Create Context
+BlogPage.js
+Post.js
+Comment.js --- use Context here
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
